@@ -1,0 +1,14 @@
+#welcome-section {
+    text-align:center;
+}
+#img-div{
+    width:100%;
+    text-align:center;
+
+}
+#image{
+    display:block;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+}
