@@ -1,0 +1,27 @@
+#welcome-section {
+    text-align:center;
+}
+.project-title{
+    border: 1px solid black;
+    border-radius: 20px;
+    width:100%;
+    text-align:center;
+
+
+}
+#image{
+    display:block;
+    width: 300px;
+    height:auto;
+    margin:0 auto;
+}
+
+#profile-link{
+    color: blue;
+}
+
+footer{
+    position: relative;
+    top: 400px;
+    text-align: center;
+}
